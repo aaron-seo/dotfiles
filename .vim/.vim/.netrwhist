@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =2
+let g:netrw_dirhist_2='/Users/aaronseo/Developer/rabbitmq-server/deps/rabbitmq_prometheus/ebin'
+let g:netrw_dirhist_1='/Users/aaronseo/Developer/rabbitmq-server/deps/rabbitmq_prometheus'
+let g:netrw_dirhist_0='/Users/aaronseo/Developer/rabbitmq-server/deps/rabbitmq_prometheus/src'
+let g:netrw_dirhist_9='/Users/aaronseo/Developer/rabbitmq-server/deps/rabbitmq_prometheus/src/collectors'
+let g:netrw_dirhist_8='/Users/aaronseo/Developer/rabbitmq-server/deps/rabbitmq_prometheus'
+let g:netrw_dirhist_7='/Users/aaronseo/Developer/rabbitmq-server/deps/rabbitmq_prometheus/src'
+let g:netrw_dirhist_6='/Users/aaronseo/Developer/rabbitmq-server/deps/rabbitmq_prometheus/src/collectors'
+let g:netrw_dirhist_5='/Users/aaronseo/Developer/rabbitmq-server/deps/rabbitmq_prometheus/src'
+let g:netrw_dirhist_4='/Users/aaronseo/Developer/rabbitmq-server/deps/rabbitmq_prometheus'
+let g:netrw_dirhist_3='/Users/aaronseo/Developer/rabbitmq-server/deps/rabbitmq_prometheus/src'
